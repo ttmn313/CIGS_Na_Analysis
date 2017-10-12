@@ -1,0 +1,8 @@
+*/
+*.csv
+*.txt
+*.tif
+*.html
+*.ipynb
+!Separate_PL_via_EG.ipynb
+!PL_Raman_Analysis.ipynb
